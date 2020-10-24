@@ -4,14 +4,14 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 
 &nbsp;
 <p float="left">
-    <img src="image/Car.jpg"/>
+    <img src="images/Car.jpg"/>
 </p>
 
 &nbsp;
 
 &nbsp;
 <p float="left">
-    <img src="image/Tool1.jpg"/>
+    <img src="images/Tool1.jpg"/>
 </p>
 
 &nbsp;
@@ -20,7 +20,7 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 
 &nbsp;
 <p float="left">
-    <img src="image/Tool2.jpg"/>
+    <img src="images/Tool2.jpg"/>
 </p>
 
 &nbsp;
@@ -34,13 +34,9 @@ Train&Testing sample statistic
 | Test | 90.9 | 93.3 |
 | Total | 90.7 | 93.5 |
 
-
 &nbsp;
-## Point Cloud Part Segmentation
-### Run the training script:
+## PCitation
+### If you find our work useful in your research, please consider citing:
 
-- Full dataset
-
-``` 
-python main_partseg.py --exp_name=partseg 
-```
+1.	Y Tian, W Song, L Chen, et al., A Fast Spatial Clustering Method for Sparse LiDAR Point Clouds Using GPU Programming, Sensors 20 (8), 2309
+2.	W Song, L Zhang, Y Tian, et al., CNN-based 3D object classification using Hough space of LiDAR point clouds, Human-centric Computing and Information Sciences 10 (1), 1-14

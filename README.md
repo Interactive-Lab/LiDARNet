@@ -22,11 +22,11 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 ## LSOOD:
 Train&Testing sample statistic
 
-|  | Mean Class Acc | Overall Acc | 
+|  | Building | Bush | Pedestrian | Tree | 
 | :---: | :---: | :---: | 
-| Train | 90.2 | 92.9 |
-| Test | 90.9 | 93.3 |
-| Total | 90.7 | 93.5 |
+| Train | 335 | 223 | 83 | 415 |
+| Test  | 335 | 223 | 83 | 415 |
+| Total | 335 | 223 | 83 | 415 |
 
 &nbsp;
 ## PCitation

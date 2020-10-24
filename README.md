@@ -10,7 +10,7 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 
 &nbsp;
 
-**Tip:** We collected 1056 obstacles from several thousands of scanning frames, containing 4 kinds of common types. All the point coordinates are stored in .csv files with their original and after-centralized x, y, z coordinates.  
+**We collected 1056 obstacles from several thousands of scanning frames, containing 4 kinds of common types. All the point coordinates are stored in .csv files with their original and after-centralized x, y, z coordinates.**
 
 &nbsp;
 <p float="left">
@@ -20,7 +20,7 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 &nbsp;
 
 ## LSOOD:
-Train&Testing sample statistic
+### Train&Testing sample statistic
 
 |       | Building | Bush | Pedestrian | Tree | Total |
 | :---: | :---:    |:---: |      :---: |:---: | :---: |
@@ -34,3 +34,7 @@ Train&Testing sample statistic
 
 1.	Y Tian, W Song, L Chen, et al., A Fast Spatial Clustering Method for Sparse LiDAR Point Clouds Using GPU Programming, Sensors 20 (8), 2309
 2.	W Song, L Zhang, Y Tian, et al., CNN-based 3D object classification using Hough space of LiDAR point clouds, Human-centric Computing and Information Sciences 10 (1), 1-14
+
+&nbsp;
+## Principal Investigator
+### Tian Yifei (yb87403@um.edu.mo); Song Wei (sw@ncut.edu.mo)

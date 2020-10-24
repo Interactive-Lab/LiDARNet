@@ -4,17 +4,17 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 
 &nbsp;
 <p float="left">
-    <img width="250" height="150" src="images/Car.jpg"/>
-    <img width="250" height="150" src="images/Tool1.png"/>
+    <img width="500" height="300" src="images/Car.jpg"/>
+    <img width="500" height="300" src="images/Tool1.png"/>
 </p>
 
 &nbsp;
 
-**Tip:** The result of point cloud experiment usually faces greater randomness than 2D image. We suggest you run your experiment more than one time and select the best result.
+**Tip:** We collected xxx obstacles from several thousands of scanning frames, containing 4 kinds of common types. All the point coordinates are stored in .csv files with their original and after-centralized x, y, z coordinates.  
 
 &nbsp;
 <p float="left">
-    <img width="500" height="200" src="images/Tool2.png"/>
+    <img width="800" height="500" src="images/Tool2.png"/>
 </p>
 
 &nbsp;

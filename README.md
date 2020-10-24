@@ -42,4 +42,3 @@ Tian Yifei (yb87403@um.edu.mo); Song Wei (sw@ncut.edu.mo)
 &nbsp;
 ## Project Researchers
 Zhang Lifeng; Liu Zishu
-Tian Yifei (yb87403@um.edu.mo); Song Wei (sw@ncut.edu.mo)

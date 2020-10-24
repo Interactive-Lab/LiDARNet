@@ -25,7 +25,7 @@ Train&Testing sample statistic
 |  | Building | Bush | Pedestrian | Tree | 
 | :---: | :---: | :---: | 
 | Train | 335 | 223 | 83 | 415 |
-| Test  | 335 | 223 | 83 | 415 |
+| Test | 335 | 223 | 83 | 415 |
 | Total | 335 | 223 | 83 | 415 |
 
 &nbsp;

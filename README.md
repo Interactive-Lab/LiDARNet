@@ -29,7 +29,7 @@ Train&Testing sample statistic
 | Total | 335 | 223 | 83 | 415 | 1056 |
 
 &nbsp;
-## PCitation
+## Citation
 ### If you find our work useful in your research, please consider citing:
 
 1.	Y Tian, W Song, L Chen, et al., A Fast Spatial Clustering Method for Sparse LiDAR Point Clouds Using GPU Programming, Sensors 20 (8), 2309

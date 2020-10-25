@@ -40,7 +40,7 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 
 &nbsp;
 ## Principal Investigator
-Tian Yifei (yb87403@um.edu.mo); Song Wei (sw@ncut.edu.mo)
+Song Wei (sw@ncut.edu.cn); Tian Yifei (yb87403@um.edu.mo, tianyifei0000@sina.com) 
 
 &nbsp;
 ## Project Researchers

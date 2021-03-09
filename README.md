@@ -9,7 +9,7 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 </p>
 &nbsp;
 <p float="left">
-    <img width="500" height="300" src="images/Tool1.png"/>
+    <img width="500" height="300" src="images/labeling tool.png"/>
 </p>
 &nbsp;
 
@@ -21,6 +21,14 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 </p>
 
 &nbsp;
+
+&nbsp;
+<p float="left">
+    <img width="500" height="300" src="images/sample table.png"/>
+</p>
+
+&nbsp;
+
 
 ## LiDAR:
 ### Train&Testing sample statistic

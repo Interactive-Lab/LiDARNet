@@ -13,7 +13,7 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 </p>
 &nbsp;
 
-**We collected 1056 obstacles from several thousands of scanning frames, containing 4 kinds of common types. All the point coordinates are stored in .csv files with their original and after-centralized x, y, z coordinates.**
+**We collected 2640 obstacles from several thousands of scanning frames, containing 6 kinds of common types. All the point coordinates are stored in .csv files with their original and after-centralized x, y, z coordinates.**
 
 
 &nbsp;

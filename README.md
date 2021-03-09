@@ -25,11 +25,9 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 ## LiDAR:
 ### Train&Testing sample statistic
 
-|       | Building | Bush | Pedestrian | Tree | Total |
-| :---: | :---:    |:---: |      :---: |:---: | :---: |
-| Train | 180 | 110 | 50 | 190 | 530 |
-| Test  | 155 | 113 | 33 | 225 | 526 |
-| Total | 335 | 223 | 83 | 415 | 1056 |
+|       | Building | Bush | Car | Pedestrian | Tree | Pole | Total |
+| :---: | :---:    |:---: |      :---: |:---: | :---: | :---: | :---: |
+| Total | 769 | 246 | 93 | 111 | 1147 | 274 | 2640 |
 
 &nbsp;
 ## Citation

@@ -33,8 +33,10 @@ This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV
 ## Citation
 ### If you find our work useful in your research, please consider citing:
 
-1.	Y Tian, W Song, L Chen, et al., A Fast Spatial Clustering Method for Sparse LiDAR Point Clouds Using GPU Programming, Sensors 20 (8), 2309
-2.	W Song, L Zhang, Y Tian, et al., CNN-based 3D object classification using Hough space of LiDAR point clouds, Human-centric Computing and Information Sciences 10 (1), 1-14
+1.	Tian, Yifei; Chen, Long; Song, Wei*; Sung, Yunsick; Woo, Sangchul, DGCB-Net: Dynamic Graph Convolutional Broad Network for 3D Object Recognition in Point Cloud, Remote Sensing, Vol.13, No.1, 66, eISSN: 2072-4292, 2020.12.26
+2.	Zishu Liu, Wei Song*, Yifei Tian, Sumi Ji, Yunsick Sung, Long Wen, Tao Zhang, Liangliang Song, Amanda Gozho, VB-Net: Voxel-Based Broad Learning Network for 3D Object Classification, Applied Science, Vol.10, No.19, 6735, 2020.9.26
+3.	Wei Song*, LingFeng Zhang, Yifei Tian, Simon Fong, Jinming Liu, Amanda Gozho, CNN-based 3D Object Classification Using Hough Space of LiDAR Point Clouds, Human-centric Computing and Information Sciences, Vol.10, No.1, 2020.5.7
+4.	Yifei Tian, Wei Song*, Long Chen, Yunsick Sung, Jeonghoon Kwak, Su Sun, A Fast Spatial Clustering Method for Sparse LiDAR Point Clouds Using GPU Programming, Sensors, Vol.20, No.8, 2309, 2020.4.
 
 &nbsp;
 ## Principal Investigator

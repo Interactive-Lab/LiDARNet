@@ -1,6 +1,6 @@
 # LiDARNet v1
 
-This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV platform. Raw point clouds collected from a real outdoor scene are segmented into individual obstacles according to a fast spatial clustering method [1]. We developed a semi-automatic 3D object labeling tool to store individual object point clouds [2]. The UGV and a semi-automatic 3D object labeling tool are presented in the following figure. 
+This dataset is collected by an HDL-32E Velodyne LiDAR sensor carried by our UGV platform. Raw point clouds collected from a real outdoor scene are segmented into individual obstacles according to a fast spatial clustering method. We developed a semi-automatic 3D object labeling tool to store individual object point clouds. The UGV and a semi-automatic 3D object labeling tool are presented in the following figure. 
 
 &nbsp;
 <p float="left">
